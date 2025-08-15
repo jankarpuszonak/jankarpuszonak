@@ -1,6 +1,6 @@
 # Hi there, I'm Jan! 👋
 
-![Banner Image](https://github.com/jankarpuszonak/jankarpuszonak/blob/main/IMG_5927.jpg?raw=true)
+![Banner Image](https://github.com/jankarpuszonak/jankarpuszonak/blob/main/color.jpg?raw=true)
 
 ## About Me 📝
 
