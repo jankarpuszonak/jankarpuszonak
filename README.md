@@ -1,5 +1,16 @@
-## Hi there 👋
+# Hi there, I'm Jan! 👋
 
+![Banner Image]()
+
+## About Me 📝
+
+I'm currently a **computer engineering** student at FIB - UPC (Universitat Politècnica de Catalunya)
+
+Learning to create. Creating to learn.
+
+## Get in Touch 📬
+
+- **[LinkedIn]**(www.linkedin.com/in/jan-karpuszonak-b2b005359)
 <!--
 **jankarpuszonak/jankarpuszonak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
